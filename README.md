@@ -14,6 +14,10 @@ The Template Method design pattern is a behavioral pattern that defines the skel
 - `CalculateScore()`: Calculates the candidate's quiz score.
 - `DisplayResults()`: Displays quiz results, including candidate details and score.
 
+## Class Diagram
+![Screenshot (3)](https://github.com/prathamrmn/QuizCreator-Template-Method-Demo/assets/134471394/4c456019-2c5a-4009-b502-cd179aec260b)
+
+
 ## Quiz Types
 
 ### 1. Single Correct Multiple-Choice Quiz (`SingleCorrectMultipleChoiceQuiz`)
