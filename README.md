@@ -15,7 +15,7 @@ The Template Method design pattern is a behavioral pattern that defines the skel
 - `DisplayResults()`: Displays quiz results, including candidate details and score.
 
 ## Class Diagram
-![Screenshot (4)](https://github.com/prathamrmn/QuizCreator-Template-Method-Demo/assets/134471394/5e7a5891-3733-42ed-a2fb-a5abda28eb7d)
+![class diagram](https://github.com/prathamrmn/QuizCreator-Template-Method-Demo/blob/master/classdiagram.png)
 
 
 
